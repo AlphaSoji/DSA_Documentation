@@ -34,4 +34,9 @@ To insert a line of code......
 SELECT A,B,C
 WHERE A> 45
 
-```
+``` 
+### Analysis:
+
+Bonus:
+*Italics*
+**Bold**
