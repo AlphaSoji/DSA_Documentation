@@ -16,4 +16,14 @@ Odata
    - data wrangling
 3. SQL Server (for query and analysis)
 4. Power BI (for visualizations)
-5. MS PowerPoint  
+5. MS PowerPoint
+
+### Data Cleaning and Preparation:
+1. Power Query
+2. per term
+### Exploratory data Analysis:
+1. Overall sals trend
+2. per term 
+### Data Analysis:
+1. Power BI
+2. Python
