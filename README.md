@@ -1,2 +1,6 @@
 # DSA_Documentation
-Test Project for the DSA Program on Github. 
+This is my First DSA Portdolio Building Project. 
+
+## Project Topic: DATA ANALYSIS
+###Project Overview:
+This data analysis project is intended to provide indight....
