@@ -27,3 +27,11 @@ Odata
 ### Data Analysis:
 1. Power BI
 2. Python
+
+To insert a line of code......
+
+``` SQL
+SELECT A,B,C
+WHERE A> 45
+
+```
